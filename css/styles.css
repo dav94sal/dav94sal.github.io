@@ -11202,6 +11202,10 @@ body {
   padding: 5rem 0;
 }
 
-#masthead-resume-link {
+.remove-underline {
   text-decoration: unset;
+}
+
+.small-margin {
+  margin: 10px;
 }
